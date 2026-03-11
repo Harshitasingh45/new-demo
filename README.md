@@ -1,5 +1,5 @@
 # new-demo
 new Git repository
 <br>
-Author - harshita singh ,
+Author - harshita singh (yadav)
 
